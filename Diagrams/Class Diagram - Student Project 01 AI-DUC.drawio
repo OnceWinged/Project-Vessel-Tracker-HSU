@@ -1,59 +1,59 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="6-VY2Kr8mh5ephC-ggrv">
-    <mxGraphModel dx="683" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QEd4yvdWXki_lCjb84Wy-9" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="80" width="160" height="524" as="geometry" />
+          <mxGeometry x="1000" y="80" width="175" height="534" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-30" value="&lt;div&gt;- fullName: String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+          <mxGeometry y="26" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-25" value="&lt;div&gt;- id : String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="52" width="160" height="26" as="geometry" />
+          <mxGeometry y="52" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-24" value="&lt;div&gt;- -----&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="78" width="160" height="26" as="geometry" />
+          <mxGeometry y="78" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-46" value="- requests : List &amp;lt;Request&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="104" width="160" height="26" as="geometry" />
+          <mxGeometry y="104" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-47" value="- reports : List &amp;lt;Report&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="130" width="160" height="26" as="geometry" />
+          <mxGeometry y="130" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-20" value="&lt;div&gt;- vehicles : List &amp;lt;Vehicles&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="156" width="160" height="26" as="geometry" />
+          <mxGeometry y="156" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-21" value="&lt;div&gt;- account : Account&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="182" width="160" height="26" as="geometry" />
+          <mxGeometry y="182" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QEd4yvdWXki_lCjb84Wy-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="208" width="160" height="20" as="geometry" />
+          <mxGeometry y="208" width="175" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QEd4yvdWXki_lCjb84Wy-12" value="&lt;div&gt;+ Constructor(Account)&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="228" width="160" height="26" as="geometry" />
+          <mxGeometry y="228" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QEd4yvdWXki_lCjb84Wy-32" value="&lt;div&gt;+ setter&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="254" width="160" height="26" as="geometry" />
+          <mxGeometry y="254" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-1" value="+ getter" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="280" width="160" height="26" as="geometry" />
+          <mxGeometry y="280" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-66" value="User&#39;s getter setter được sử dụng khi user&lt;div style=&quot;font-size: 8px;&quot;&gt;chọn tính năng sửa thông tin trên menu.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="306" width="160" height="30" as="geometry" />
+          <mxGeometry y="306" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-62" value="&lt;div&gt;+ newRequest()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="336" width="160" height="26" as="geometry" />
+          <mxGeometry y="336" width="175" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="24fqjNdx8K8JyZ3R7jgm-79" value="New request để khởi tạo req mới, sử dụng&lt;div style=&quot;font-size: 8px;&quot;&gt;một hàm chuyên biệt&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;để lấy giữ liệu cần&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;thiết,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;sau đó hàm đấy tạo object&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;request&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;mới từ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;cái class request.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;Object này&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;sau&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;đó được đẩy vào database + list của user&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;được add phần tử mới, chính cái ptu mới&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;trong list ấy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;reference&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;về cái object&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;này.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;Nên lần sau khởi chạy, obj có thể&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;được khởi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;tạo bằng một hàm khác, để hiện thị cho&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;user&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;trong trường hợp user chọn view req trên menu,&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="362" width="160" height="110" as="geometry" />
+        <mxCell id="24fqjNdx8K8JyZ3R7jgm-79" value="New request để khởi tạo req mới, sử dụng&lt;div style=&quot;font-size: 8px;&quot;&gt;một hàm chuyên biệt&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;để lấy giữ liệu cần&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;thiết,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;sau đó hàm đấy tạo object&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;request&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;mới từ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;cái class request.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;Object này&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;sau&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;đó được đẩy vào database + list của user&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;được add phần tử mới, chính cái ptu mới&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;trong list ấy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;reference&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;về cái object&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;này.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;Nên lần sau khởi chạy, obj có thể&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;được khởi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;tạo bằng một hàm khác, để hiện thị cho&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;user&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;trong trường hợp user chọn view req trên menu,&lt;br&gt;&lt;i&gt;ex: account.user.getReq()&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
+          <mxGeometry y="362" width="175" height="120" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-63" value="&lt;div&gt;+ getReq()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="472" width="160" height="26" as="geometry" />
+          <mxGeometry y="482" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-64" value="&lt;div&gt;+ getRep()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-9" vertex="1">
-          <mxGeometry y="498" width="160" height="26" as="geometry" />
+          <mxGeometry y="508" width="175" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QEd4yvdWXki_lCjb84Wy-13" value="Vehicles" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1520" y="443" width="160" height="268" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry y="242" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QEd4yvdWXki_lCjb84Wy-17" value="Account" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="164" width="160" height="256" as="geometry" />
+          <mxGeometry x="600" y="214" width="160" height="256" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-29" value="&lt;div&gt;- username: String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="QEd4yvdWXki_lCjb84Wy-17" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -266,21 +266,24 @@
           <mxGeometry x="905" y="55" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-52" value="Main" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="242" width="160" height="100" as="geometry" />
+          <mxGeometry x="200" y="264" width="160" height="156" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-55" value="- account: Account" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="24fqjNdx8K8JyZ3R7jgm-52" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="24fqjNdx8K8JyZ3R7jgm-57" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="24fqjNdx8K8JyZ3R7jgm-52" vertex="1">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        <mxCell id="wSfvabTkz_njAGNaBWXI-8" value="- menu : Menu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="24fqjNdx8K8JyZ3R7jgm-52">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="24fqjNdx8K8JyZ3R7jgm-65" value="Luồng chính, khi chạy app, việc&lt;div&gt;đầu tiên&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;được thực hiện là&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;init/ khởi tạo object Account.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="24fqjNdx8K8JyZ3R7jgm-52" vertex="1">
-          <mxGeometry y="60" width="160" height="40" as="geometry" />
+        <mxCell id="24fqjNdx8K8JyZ3R7jgm-57" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="24fqjNdx8K8JyZ3R7jgm-52" vertex="1">
+          <mxGeometry y="78" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="24fqjNdx8K8JyZ3R7jgm-65" value="Luồng chính, khi chạy app, việc&lt;div&gt;đầu tiên&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;được thực hiện là&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;init/ khởi tạo object Account.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Khi có account tồn tại. khởi chạy object&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Menu để đọc choice của user.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ menuStart(boolean) :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;boolean&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="24fqjNdx8K8JyZ3R7jgm-52" vertex="1">
+          <mxGeometry y="86" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-67" value="Các constructor của các object list, tồn tại bên trong object user, có&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;quyền truy cập ID của user. Sử dụng để truy xuất dữ liệu từ database,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;cập nhật vào bản thân và lôi ra hiển thị trên giao diện khi cần.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="1185" y="774" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="24fqjNdx8K8JyZ3R7jgm-69" value="use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" parent="1" source="24fqjNdx8K8JyZ3R7jgm-52" target="QEd4yvdWXki_lCjb84Wy-17" edge="1">
+        <mxCell id="24fqjNdx8K8JyZ3R7jgm-69" value="has" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" parent="1" source="24fqjNdx8K8JyZ3R7jgm-52" target="QEd4yvdWXki_lCjb84Wy-17" edge="1">
           <mxGeometry y="2" relative="1" as="geometry">
             <mxPoint x="590" y="242" as="sourcePoint" />
             <mxPoint x="940" y="242" as="targetPoint" />
@@ -298,6 +301,22 @@
         </mxCell>
         <mxCell id="24fqjNdx8K8JyZ3R7jgm-81" value="cái hàm get sẽ làm do-while, gọi object đầu tiên lên,&lt;div style=&quot;font-size: 8px;&quot;&gt;là Null thì xem như user không có tài iệu để up lên&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;UI. có thì check pointer tiếp theo đẩy lên tiếp.&lt;br style=&quot;font-size: 8px;&quot;&gt;Hoặc sài For_range. note đọc là đọc từ json lên và thực&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;tái tạo object bằng dữ liệu đấy, chứ k phải đọc từ chỗ khác&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;trong memory như thông thường (đều được&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;tồn tại sẵn ở container khác)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=1;textOpacity=60;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="1155" y="180" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSfvabTkz_njAGNaBWXI-2" value="Menu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wSfvabTkz_njAGNaBWXI-3" value="+ menu : Menu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wSfvabTkz_njAGNaBWXI-2">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wSfvabTkz_njAGNaBWXI-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="wSfvabTkz_njAGNaBWXI-2">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="wSfvabTkz_njAGNaBWXI-7" value="use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="24fqjNdx8K8JyZ3R7jgm-52" target="wSfvabTkz_njAGNaBWXI-2">
+          <mxGeometry x="0.4574" relative="1" as="geometry">
+            <mxPoint x="435" y="312" as="sourcePoint" />
+            <mxPoint x="540" y="302" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
