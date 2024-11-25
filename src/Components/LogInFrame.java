@@ -41,8 +41,7 @@ public class LogInFrame extends JFrame {
         setVisible(false);
     }
 
-    public void bond(SignUpFrame signUp, Account user) {
-        this.user = user;
+    public void bond(SignUpFrame signUp) {
         this.signUp = signUp;
     }
 

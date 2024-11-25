@@ -61,8 +61,8 @@ public class SignUpFrame extends JFrame {
         this.setVisible(false);
     }
 
-    public void bond(LogInFrame logIn, Account user) {
-        this.user = user;
+    public void bond(LogInFrame logIn) {
+        // this.user = user;
         this.logIn = logIn;
     }
 
@@ -70,7 +70,7 @@ public class SignUpFrame extends JFrame {
         if (!user.isValid()) {
             // user isvalid mean exist, on sign in, unexist is the criterion for confirm.
             // criteria is plural of criterion btw. noted that.
-            UserMenu menu = (user.isAdmin()) ? new UserMenu() : new UserMenu(user);
+            UserMenu menu = new UserMenu(user);
             // (user.is_admin()) ? new UserMenu().setVisible(true) : new
             // UserMenu(user).setVisible(true);(too hard to read, but legit)
             menu.setVisible(true);
