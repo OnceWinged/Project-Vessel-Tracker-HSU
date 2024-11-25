@@ -1,4 +1,4 @@
-package Buttons;
+package Utils.Buttons;
 
 import java.awt.Font;
 
@@ -12,7 +12,6 @@ public class TypeIButton extends JButton {
      */
     public TypeIButton(int x, int y, String name) {
         // button with prefixed size, but optional offset
-
         setBounds(x, y, 200, 50);
         setText(name);
         setFocusable(false);

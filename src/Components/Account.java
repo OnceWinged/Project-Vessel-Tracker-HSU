@@ -1,4 +1,4 @@
-package Frames;
+package Components;
 
 public class Account {
 
@@ -14,4 +14,6 @@ public class Account {
     public boolean isAdmin() {
         return false;
     }
+
 }
+

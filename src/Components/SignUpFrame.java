@@ -1,24 +1,25 @@
-package Frames;
+package Components;
 
 import javax.swing.JFrame;
-import Buttons.*;
-import TextBoxs.TypeITextBox;
+
+import Utils.Buttons.*;
+import Utils.TextBoxs.TypeITextBox;
 
 public class SignUpFrame extends JFrame {
 
-    Account user;
+    private Account user;
 
-    TypeIButton confirm;
-    TypeIButton toLogIn;
+    private TypeIButton confirm;
+    private TypeIButton toLogIn;
 
-    TypeITextBox fullName;
-    TypeITextBox dateOfBirth;
-    TypeITextBox gender;
-    TypeITextBox username;
-    TypeITextBox password;
-    TypeITextBox passwordConfirm;
+    private TypeITextBox fullName;
+    private TypeITextBox dateOfBirth;
+    private TypeITextBox gender;
+    private TypeITextBox username;
+    private TypeITextBox password;
+    private TypeITextBox passwordConfirm;
 
-    LogInFrame logIn;
+    private LogInFrame logIn;
 
     /*
      * 2 input box, 2 botton OK & SignUp...

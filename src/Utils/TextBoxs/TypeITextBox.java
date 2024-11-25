@@ -1,4 +1,4 @@
-package TextBoxs;
+package Utils.TextBoxs;
 
 import javax.swing.JTextField;
 

@@ -1,4 +1,4 @@
-package Frames;
+package Components;
 
 import javax.swing.JFrame;
 // import java.awt.event.ActionEvent;

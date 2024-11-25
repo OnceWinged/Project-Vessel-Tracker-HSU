@@ -2,22 +2,23 @@
 // Why dont I combine all my frame to one and let them inheritance from it?
 // Yeah try it. Me? I wont. "Prefer Composition over Inheritance"
 // (fact: I fcked up trying)
-package Frames;
+package Components;
 
 import javax.swing.JFrame;
-import Buttons.*;
-import TextBoxs.*;
+
+import Utils.Buttons.*;
+import Utils.TextBoxs.*;
 
 public class LogInFrame extends JFrame {
 
-    Account user;
+    private Account user;
 
-    TypeIButton confirm, toSignUp;
-    TypeITextBox username, password;
+    private TypeIButton confirm, toSignUp;
+    private TypeITextBox username, password;
     // TODO consider make new frame for textfield only, Grid layout and configure it
     // here instead, set number of field and context of each, you can then write
     // thatframe.thattextfield.addActionListener(e -> doingsomeshits);
-    SignUpFrame signUp;
+    private SignUpFrame signUp;
 
     public LogInFrame() {
         // frame init
