@@ -17,12 +17,12 @@ import Components.SignUpFrame;
 public class StartUpMain {
     public static void main(String[] args) {
 
-        Account user = new Account();
+        // Account user = new Account();
         LogInFrame logIn = new LogInFrame();
         SignUpFrame signUp = new SignUpFrame();
 
-        logIn.bond(signUp, user);
-        signUp.bond(logIn, user);
+        logIn.bond(signUp);
+        signUp.bond(logIn);
 
         logIn.setVisible(true);
 
